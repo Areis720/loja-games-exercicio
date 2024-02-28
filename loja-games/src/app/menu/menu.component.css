@@ -1,0 +1,25 @@
+.example-spacer {
+    flex: auto;
+  }
+
+span{
+    padding: 10px;
+    color:rgb(105, 5, 5);
+}
+
+  img{
+    height: 50px;
+    width: 50px;  
+    color: rgb(105, 5, 5);
+  }
+
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  .mat-toolbar{
+    background: rgb(105, 5, 5);
+    
+  }
+  
+  
